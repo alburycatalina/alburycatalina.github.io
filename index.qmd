@@ -1,5 +1,5 @@
 ---
-title: "C. Albury"
+title: "C. Albury, MSc"
 image: images/profile.jpg
 about:
   template: trestles
