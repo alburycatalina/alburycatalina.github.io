@@ -6,8 +6,7 @@ editor: visual
 
 -   [Data Practices for Open Science](https://alburycatalina.github.io/data-practices/data-practices-for-open-science.html#/title-slide)\
     [{code}](https://github.com/alburycatalina/data-practices)\
-   
-Materials for a talk to the [Earth to Ocean research group](https://earthtooceansfu.ca/) at Simon Fraser University. This presentation serves as an introduction to practical applications of the "FAIR" method for scientific data management and stewardship.
+    Materials for a talk to the [Earth to Ocean research group](https://earthtooceansfu.ca/) at Simon Fraser University. This presentation serves as an introduction to practical applications of the "FAIR" method for scientific data management and stewardship.
 
 -   [Employment Equity: An Analysis of Distribution of Salary Ranges of Public Service of Canada Employees](https://employment-equity.github.io/)\
     [{code}](https://github.com/Employment-Equity/employment-equity.github.io)\

@@ -8,7 +8,7 @@ editor: visual
 
 Complex proteomic rearrangements in response to vitamin B12 starvation and heat stress in the polar diatom, *F. cylindrus*. **Albury C.**, Elden Rowland, Erin M. Bertrand
 
-Beyond Auxotrophy: Exploring consequences of cobalamin depletion in non-auxotrophs. Anna Gleason, ** Albury C.**, Cat Bannon, Elden Rowland, Erin M. Bertrand
+Beyond Auxotrophy: Exploring consequences of cobalamin depletion in non-auxotrophs. Anna Gleason, **Albury C.**, Cat Bannon, Elden Rowland, Erin M. Bertrand
 
 ### 2023
 
