@@ -1,5 +1,5 @@
 ---
-title: "C. Albury, MSc"
+title: "Albury C., MSc"
 image: images/profile.jpg
 about:
   template: trestles
@@ -25,9 +25,10 @@ comments: false
 ::: {.column-page}
 
 ## Bio
-I am a Bahamian researcher located in Vancouver, BC on unceeded xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh (Squamish), and səlilwətaɬ (Tsleil-Waututh) territory. I recently completed my MSc under the supervision of [Dr. Erin Bertrand](https://erinbertrand.wixsite.com/bertrandlab), which specialized in marine microbial ecophysiology. 
+I am a Bahamian researcher located in Vancouver, BC on unceeded xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh (Squamish), and səlilwətaɬ (Tsleil-Waututh) territory. I’m currently the data products steward at the Pacific Data Stewardship Unit (DSU) at the Department of Fisheries and Oceans. As data products steward, I build data pipelines that ensure internal access to important ecological datasets. 
 
-I’m currently an analyst and citizen developer for Statistics Canada’s Innovation SURGE team. As part of the SURGE team, I help internal clients to transition to open source tools and workflows for data science using R, Python, and Git.
+I completed an MSc in Biology under the supervision of [Dr. Erin Bertrand](https://erinbertrand.wixsite.com/bertrandlab). My research there focused on marine microbial ecophysiology and trace nutrient dynamics.   
+
 
 When I’m not writing up a script, you can often find me cycling, cooking, or teaching. I’m passionate about getting young people excited about science and providing access to information, tools, and skills that spark scientific creativity.
 
