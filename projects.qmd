@@ -12,6 +12,8 @@ editor: visual
     [{code}](https://github.com/Employment-Equity/employment-equity.github.io)\
     Code used to webscrape and visualize employee salary data from the Government of Canada's Treasury Board. Here we demonstrate systemic disadvantage in career progression amongst Black public servants which must be resolved with a strategic plan to identify structural and systemic barriers and improve retention and success to levels achieved by their non-racialized peers.
 
+-   [Differential Gene Expression (DGE) with Bayes Quasi-Likelihood in      edgeR]()
+
 -   [Making a Research Website with Github and Hugo](https://github.com/alburycatalina/Personal-Research-Website)\
     A tutorial for making a personal research website with Github and Hugo.
 
