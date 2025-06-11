@@ -39,7 +39,7 @@ When I’m not writing up a script, you can often find me cycling, cooking, or t
 
 
 ## Inquiries
-If you have questions about my work or are interested in collaborating, feel free to [contact me](mailto:alburycatalina@dal.ca). I am always interested in discussing data science workshop offerings. 
+If you have questions about my work or are interested in collaborating, feel free to [contact me](mailto:alburycatalina@dal.ca). I am always interested in discussing data science consulting or workshop offerings. 
 
 ## Mentorship
 I am open to acting as a mentor to youth navigating a career in science when I have the capacity. If you are part of a group which has historically been excluded from STEM and are seeking a mentor, please [reach out via email](mailto:alburycatalina@dal.ca) with a short introduction about yourself. 
