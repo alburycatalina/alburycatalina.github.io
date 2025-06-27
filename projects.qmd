@@ -4,6 +4,10 @@ format: html
 editor: visual
 ---
 
+-   [BETA Reporting](https://github.com/alburycatalina/BETA-Reporting)\
+    [{code}](https://github.com/alburycatalina/BETA-Reporting)\
+    Code for generating insights about participation in BETA (Bahamas Engineering and Technological Advancement) using spatial data analysis packages [geodata](https://cran.r-project.org/web/packages/geodata/index.html), [sf](https://r-spatial.github.io/sf/), [terra](https://cran.r-project.org/web/packages/terra/index.html), and [tmap](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html).
+
 -   [Data Practices for Open Science](https://alburycatalina.github.io/data-practices/data-practices-for-open-science.html#/title-slide)\
     [{code}](https://github.com/alburycatalina/data-practices)\
     Materials for a talk to the [Earth to Ocean research group](https://earthtooceansfu.ca/) at Simon Fraser University. This presentation serves as an introduction to practical applications of the "FAIR" method for scientific data management and stewardship.
@@ -12,10 +16,9 @@ editor: visual
     [{code}](https://github.com/Employment-Equity/employment-equity.github.io)\
     Code used to webscrape and visualize employee salary data from the Government of Canada's Treasury Board. Here we demonstrate systemic disadvantage in career progression amongst Black public servants which must be resolved with a strategic plan to identify structural and systemic barriers and improve retention and success to levels achieved by their non-racialized peers.
 
--   [Differential Gene Expression (DGE) with Bayes Quasi-Likelihood in      edgeR]()
-
--   [Making a Research Website with Github and Hugo](https://github.com/alburycatalina/Personal-Research-Website)\
-    A tutorial for making a personal research website with Github and Hugo.
+-   [Differential Protein Expression with Bayes Quasi-Likelihood in edgeR](https://github.com/alburycatalina/Fracy_TMT_DifferentialExpression)\
+    [{code}](https://github.com/alburycatalina/Fracy_TMT_DifferentialExpression)\
+    Code used to determine which proteins are differentially expressed in the treatment cultures when compared to control using bioconductor's [edgeR](https://bioconductor.org/packages/release/bioc/html/edgeR.html).
 
 -   [Planet aRt](https://github.com/alburycatalina/planet-aRt)\
     [{code}](https://github.com/alburycatalina/planet-aRt/blob/main/planet-aRt.R)\
@@ -30,5 +33,5 @@ editor: visual
 
 -   [Intro to Coding for Sr. High](https://github.com/alburycatalina/FHA_intro_to_coding)\
     Code for a 2-day introductory coding tutorial for Bahamian high school students at Forest Heights Academy.
-    
+
 ## 
