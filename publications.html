@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.27">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,14 +35,15 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-b91c67fa4b5af78359063df39734c13f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-960d9d362f81d399278ec3e29b622b37.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -139,8 +140,7 @@ cookieconsent.run({
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#in-progress" id="toc-in-progress" class="nav-link active" data-scroll-target="#in-progress">In Progress</a></li>
-  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section">2023</a></li>
+  <li><a href="#section" id="toc-section" class="nav-link active" data-scroll-target="#section">2023</a></li>
   <li><a href="#section-1" id="toc-section-1" class="nav-link" data-scroll-target="#section-1">2022</a></li>
   <li><a href="#section-2" id="toc-section-2" class="nav-link" data-scroll-target="#section-2">2021</a></li>
   <li><a href="#section-3" id="toc-section-3" class="nav-link" data-scroll-target="#section-3">2019</a></li>
@@ -169,14 +169,9 @@ cookieconsent.run({
 </header>
 
 
-<section id="in-progress" class="level3">
-<h3 class="anchored" data-anchor-id="in-progress">In Progress</h3>
-<p>Complex proteomic rearrangements in response to vitamin B12 starvation and heat stress in the polar diatom, <em>F. cylindrus</em>. <strong>Albury C.</strong>, Elden Rowland, Erin M. Bertrand</p>
-<p>Beyond Auxotrophy: Exploring consequences of cobalamin depletion in non-auxotrophs. Anna Gleason, <strong>Albury C.</strong>, Cat Bannon, Elden Rowland, Erin M. Bertrand</p>
-</section>
 <section id="section" class="level3">
 <h3 class="anchored" data-anchor-id="section">2023</h3>
-<p><a href="https://www.isi2023.org/abstracts/submission/617/view/">Exploring Career Stagnation In Employment Equity Groups Amongst Canadian Public Servants.</a> 2023. <strong>Albury C.</strong>, Brittny Vongdara, Shamir Kanji, Martin Nicholas. <em>ISI WSC Conference Proceedings.</em> <a href="https://www.isi2023.org/media/abstracts/ottawa-2023_a4304726a4ffc04552129532cf656303.pdf">(PDF)</a></p>
+<p><a href="https://isi-web.org/sites/default/files/import/proceedings/CPS-Paper_617_exploring-career-stagnation-in-employment-equity-groups-amongst-canadian-public-servants.pdf">Exploring Career Stagnation In Employment Equity Groups Amongst Canadian Public Servants.</a> 2023. <strong>Albury C.</strong>, Brittny Vongdara, Shamir Kanji, Martin Nicholas. <em>ISI WSC Conference Proceedings.</em> <a href="https://isi-web.org/sites/default/files/import/proceedings/CPS-Paper_617_exploring-career-stagnation-in-employment-equity-groups-amongst-canadian-public-servants.pdf">(PDF)</a></p>
 </section>
 <section id="section-1" class="level3">
 <h3 class="anchored" data-anchor-id="section-1">2022</h3>
@@ -250,13 +245,14 @@ cookieconsent.run({
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
