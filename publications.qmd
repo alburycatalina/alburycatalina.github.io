@@ -4,15 +4,9 @@ format: html
 editor: visual
 ---
 
-### In Progress
-
-Complex proteomic rearrangements in response to vitamin B12 starvation and heat stress in the polar diatom, *F. cylindrus*. **Albury C.**, Elden Rowland, Erin M. Bertrand
-
-Beyond Auxotrophy: Exploring consequences of cobalamin depletion in non-auxotrophs. Anna Gleason, **Albury C.**, Cat Bannon, Elden Rowland, Erin M. Bertrand
-
 ### 2023
 
-[Exploring Career Stagnation In Employment Equity Groups Amongst Canadian Public Servants.](https://www.isi2023.org/abstracts/submission/617/view/) 2023. **Albury C.**, Brittny Vongdara, Shamir Kanji, Martin Nicholas. *ISI WSC Conference Proceedings.* [(PDF)](https://www.isi2023.org/media/abstracts/ottawa-2023_a4304726a4ffc04552129532cf656303.pdf)
+[Exploring Career Stagnation In Employment Equity Groups Amongst Canadian Public Servants.](https://isi-web.org/sites/default/files/import/proceedings/CPS-Paper_617_exploring-career-stagnation-in-employment-equity-groups-amongst-canadian-public-servants.pdf) 2023. **Albury C.**, Brittny Vongdara, Shamir Kanji, Martin Nicholas. *ISI WSC Conference Proceedings.* [(PDF)](https://isi-web.org/sites/default/files/import/proceedings/CPS-Paper_617_exploring-career-stagnation-in-employment-equity-groups-amongst-canadian-public-servants.pdf)
 
 ### 2022
 
